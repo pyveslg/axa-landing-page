@@ -1,0 +1,87 @@
+body {
+  background-color: #ECEDF3;
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  color: #03008F;
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+  font-family: 'Lato', sans-serif;
+}
+
+
+
+.btn-blue {
+  color: white;
+  background-color: #03008F;
+  text-decoration: none;
+  padding: 15px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 30px;
+}
+
+.banner {
+  color: white;
+  background-color: yellow;
+  background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url("images/axa-banner.jpg");
+  background-size: cover;
+  padding: 120px 50px;
+  box-shadow: 10px 12px 20px rgba(0,0,0,0.2);
+}
+
+.banner img {
+  width: 150px;
+}
+
+.banner h3 {
+  margin-bottom: 50px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 50px 0px;
+}
+
+.card-white {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 30px 0px;
+  height: 350px;
+}
+
+.card-white h3 {
+  margin: 10px 0px;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.footer li {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 20px;
+}
